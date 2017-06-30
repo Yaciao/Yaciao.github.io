@@ -1,0 +1,148 @@
+h1 {
+    font-family: sans-serif;
+    color: #848484;
+    text-align: center;
+    padding: 10px;
+    margin: 50px auto;
+    border-bottom: 1px solid #5a5a5a;
+    width: 500px;
+}
+
+.iphonepicture {
+    background-image: url(../sandyiphone.jpg);
+    background-repeat: no-repeat;
+    height: 638px;
+    width: 305px;
+    background-position: -245px -86px;
+    margin: 0px auto;
+    float: left;
+}
+
+.iphone {
+    position: relative;
+    background-image: url(../sandyiphone.jpg);
+    border: 4px solid #5a5a5a;
+    height: 638px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-position: -252px -86px;
+    border-radius: 50px;
+    margin: 0px auto;
+}
+
+.iphonebox {
+    position: absolute;
+    border: 2px solid #8e8e8e;
+    height: 636px;
+    width: 295px;
+    border-radius: 50px;
+    margin: -2px -1.5px;
+}
+
+.iphonebox1 {
+    position: absolute;
+    background-color: #f5faff;
+    border: 4px solid #eaeaea;
+    height: 630px;
+    width: 290px;
+    border-radius: 50px;
+    margin: -1px -0px;
+}
+
+.iphonebox2 {
+    position: absolute;
+    height: 627px;
+    width: 290px;
+    border-radius: 50px;
+    margin: -2px -3.5px;
+}
+
+.screen {
+    position: absolute;
+    background-image: url(../sandyiphone.jpg);
+    height: 462px;
+    width: 260px;
+    border-radius: 3px;
+    background-position: -269px -172px;
+    margin: 82px 16px;
+}
+
+.btn1 {
+    position: absolute;
+    border: 1px solid #c1c1c1;
+    background-color: #727272;
+    border-radius: 2px;
+    height: 30px;
+    width: 5px;
+    right: 295px;
+    top: 85px;
+}
+
+.btn2 {
+    position: absolute;
+    border: 1px solid #c1c1c1;
+    background-color: #727272;
+    border-radius: 2px;
+    height: 25px;
+    width: 5px;
+    right: 295px;
+    top: 140px;
+}
+
+.btn3 {
+    position: absolute;
+    border: 1px solid #c1c1c1;
+    background-color: #727272;
+    border-radius: 2px;
+    height: 25px;
+    width: 5px;
+    right: 295px;
+    top: 190px;
+}
+
+.listen {
+    position: absolute;
+    border: 1.5px solid #d9d5d5;
+    background-color: black;
+    border-radius: 5px;
+    height: 8px;
+    width: 54px;
+    right: 104.5px;
+    top: -40px;
+}
+
+.circular1 {
+    position: absolute;
+    border-radius: 50px;
+    border: 6px solid black;
+    top: -25px;
+    right: 20px;
+}
+
+.circular2 {
+    position: absolute;
+    border-radius: 50px;
+    border: 4px solid #292929;
+    top: -39px;
+    right: 175px;
+}
+
+.btn-circular {
+    position: absolute;
+    border-radius: 50px;
+    border: 28px solid #747474;
+    top: 475px;
+    right: 101.25px;
+}
+
+.btn-circular2 {
+    position: absolute;
+    border-radius: 50px;
+    border: 25px solid #ffffff;
+    top: 478px;
+    right: 104px;
+}
+
+
+/*  background-image: url(../sandyiphone.jpg);*
+  border: 4px solid #cbcbcb;/
