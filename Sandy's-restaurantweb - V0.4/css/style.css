@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css?family=Cambay|Hammersmith+One');
+.logo {
+    border-bottom: 1px solid #b5998e;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.logo img {
+    max-width: 300px;
+}
+
+.jumbotron h1 {
+    font-family: 'Hammersmith+One', sans-serif;
+}
+
+.jumbotron p {
+    font-family: 'Cambay', sans-serif;
+}
+
+
+/*menu*/
+
+.btn {
+    font-family: 'Cambay', sans-serif;
+    width: 100px;
+    height: 40px;
+    color: darkgray;
+    text-align: left;
+    align-items: center;
+    line-height: 46px;
+}
+
+.btn:hover {
+    color: #57392d;
+}
+
+
+/*連結區*/
+
+.link {
+    text-align: right;
+}
+
+.facebook {
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
+.ig {
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
+.youtube {
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
+
+/* facebook.ig.youtub 設定透明度結果如下*/
+
+.facebook:hover {
+    opacity: 1;
+    filter: alpha(opacity=60);
+}
+
+.ig:hover {
+    opacity: 1;
+    filter: alpha(opacity=60);
+}
+
+.youtube:hover {
+    opacity: 1;
+    filter: alpha(opacity=60);
+}
+
+.jumbotron {
+    background-image: url(../images/jumbotron04.jpg);
+    color: white;
+    height: 75vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+
+/*快速連結*/
+
+.header-button {
+    font-family: 'Cambay', sans-serif;
+    color: #d9a48f;
+    text-align: center;
+    text-decoration: none;
+    width: 360px;
+    height: 40px;
+    line-height: 42px;
+    border: 1px solid #c39675;
+    border-radius: 5px;
+    margin: 20px auto;
+    display: block;
+}
+
+.header-button:hover {
+    color: #5d3a35;
+    border-color: #67442a;
+}
+
+
+/*about區塊*/
+
+.content {
+    padding: 30px;
+    background-color: rgba(195, 165, 117, 0.67);
+}
+
+.content h2 {
+    font-family: 'Hammersmith+One', sans-serif;
+    padding: 10px;
+}
+
+.content p {
+    font-family: 'Cambay', sans-serif;
+}
+
+
+/*頁腳*/
+
+.page {
+    background-color: black;
+    font-family: 'Cambay', sans-serif;
+    color: white;
+}
